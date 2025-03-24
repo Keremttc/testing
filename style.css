@@ -1,0 +1,13 @@
+*{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-clip: text;
+    text-align: center;
+    background: -webkit-linear-gradient(#12afed, #1d00acaa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
